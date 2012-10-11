@@ -1,0 +1,3 @@
+- répertoire jquery 
+- plugin pour gérer les librairies javascript communes
+- tests unitaires
