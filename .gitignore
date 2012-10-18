@@ -1,4 +1,4 @@
-./nbproject/private/
-./nbproject/*
+nbproject/private/
+nbproject/*
 project.properties
 project.xml
